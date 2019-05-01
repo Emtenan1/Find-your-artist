@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(182, 220, 231);
+    background-image: url("music2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+.image{
+    image: url("logo.png");
+    height: 150px;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+
+}
+#h1{
+    position: relative;
+    top: 300px;
+    margin-left: 250px;
+    
+}
+#search{
+    margin-bottom: 20px;
+}
+#searchForm{
+    margin-left: 1200px;
+    position: absolute;
+    top: 70px;
+    
+}
+.H2{
+    background-color: rgb(128, 167, 179);
+    opacity: 0.5;
+   width: 500px;
+   height: 400px;
+}
+.body{
+    
+    padding: 40px;
+}
+#img{
+    margin-right: 100px;
+    /* margin-bottom:100px;  */
+   
+}
