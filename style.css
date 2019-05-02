@@ -3,7 +3,7 @@ body{
     background-image: url("music2.png");
     background-repeat: no-repeat;
     background-size: cover;
-    
+    background-blend-mode:overlay;
     margin: 0;
     padding: 0;
 }
@@ -19,30 +19,67 @@ body{
 #h1{
     position: relative;
     top: 300px;
-    margin-left: 250px;
+    margin-left: 450px;
     
 }
 #search{
     margin-bottom: 20px;
+    padding: 10px;
+    margin-right: 5px;
+    width: 300px;
+
+}
+.button{
+    padding: 7px;
+    width: 190px;
+    position: relative;
+    left: 40px;
 }
 #searchForm{
-    margin-left: 1200px;
+    
     position: absolute;
-    top: 70px;
+    top: 370px;
+    left: 37%;
+    
     
 }
-.H2{
+.Background{
     background-color: rgb(128, 167, 179);
     opacity: 0.5;
-   width: 500px;
-   height: 400px;
+   width: 400px;
+   height: 350px;
 }
-.body{
+.Information{
     
-    padding: 40px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+
 }
 #img{
     margin-right: 100px;
-    /* margin-bottom:100px;  */
+    margin-bottom:45px; 
    
+}
+#header{
+    text-align: center;
+    font-family:  'Abel', sans-serif;
+    font-size: 29px;
+}
+.Background1{
+    background-color: rgb(128, 167, 179);
+    opacity: 0.5;
+   width: 800px;
+ 
+   margin-left: 150px;
+   padding: 30px;
+}
+.discription{
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+   
+}
+.Table1, .Table2{
+    vertical-align: top;
 }
