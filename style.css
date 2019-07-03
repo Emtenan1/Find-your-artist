@@ -19,7 +19,7 @@ body{
 #h1{
     position: relative;
     top: 300px;
-    margin-left: 450px;
+    margin-left: 530px;
     
 }
 #search{
@@ -71,7 +71,7 @@ body{
     opacity: 0.5;
    width: 800px;
  
-   margin-left: 150px;
+   margin-left: 250px;
    padding: 30px;
 }
 .discription{
